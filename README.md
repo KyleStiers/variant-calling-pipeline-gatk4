@@ -1,5 +1,5 @@
 # variant-calling-pipeline-gatk4
-Variant Calling Pipeline Using GATK4 and Nextflow
+Variant Calling Pipeline Using GATK4 and Nextflow - Adapted for generalized use in the MU cluster environment
 
 This repo contains a Nextflow script for variant detection using GATK4. Full details including a description of the analysis and how to use the script: https://gencore.bio.nyu.edu/variant-calling-pipeline-gatk4/  
 <br>
