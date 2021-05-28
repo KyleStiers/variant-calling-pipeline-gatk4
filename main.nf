@@ -1,8 +1,8 @@
 /*  GATK4 Variant Calling Pipeline 
- *  Usage: nextflow run gencorefacility/variant-calling-pipeline-gatk4 -with-docker gencorefacility/variant-calling-pipeline-gatk4 
+ *  Usage: nextflow run KyleStiers/variant-calling-pipeline-gatk4 -with-singularity KyleStiers/variant-calling-pipeline-gatk4 
  *
- *  Author: Mohammed Khalfan < mkhalfan@nyu.edu >
- *  NYU Center for Genetics and System Biology 2020
+ *  Author: Kyle Stiers < kmskvf @ umsystem.edu >
+ *  MU IRCF 2021
  */
 
 // Setting some defaults here,
